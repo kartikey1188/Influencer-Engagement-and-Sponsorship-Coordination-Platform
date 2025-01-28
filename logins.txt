@@ -1,0 +1,23 @@
+admin:::::
+
+admin1@gmail.com, minad1 
+
+sponsors:::::
+
+ambani@gmail.com, ambani
+kartikey@gmail.com, kartikey
+nolan@gmail.com, nolan
+who@gmail.com, who
+nasa@gmail.com, nasa
+nike@gmail.com, nike
+
+
+influencers:::::
+
+john@gmail.com, john
+bender@gmail.com, bender
+gordon@gmail.com, gordon
+rock@gmail.com, rock
+plato@gmail.com, plato
+kalpana@gmail.com, Kalpana
+marie@gmail.com, marie
