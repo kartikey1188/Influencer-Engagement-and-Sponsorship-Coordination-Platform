@@ -25,12 +25,6 @@
 │   │
 │   ├── downloads
 │   │
-│   ├── pycache
-│   │   ├── celery_celery.cpython-38.pyc
-│   │   ├── celery_schedule.cpython-38.pyc
-│   │   ├── celery_setup.cpython-38.pyc
-│   │   ├── mail.cpython-38.pyc
-│   │   ├── tasks.cpython-38.pyc
 │
 ├── pictures
 │   ├── images
