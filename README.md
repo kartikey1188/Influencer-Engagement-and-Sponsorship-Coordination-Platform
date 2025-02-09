@@ -24,7 +24,7 @@
 │   │   ├── tasks.py
 │   │
 │   ├── downloads
-│   │
+│   
 │
 ├── pictures
 │   ├── images
