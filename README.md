@@ -1,4 +1,4 @@
-# Modern Application Development 2 Project
+# Influencer Engagement and Sponsorship Coordination Platform
 
 ## Folder Structure
 
